@@ -1,0 +1,13 @@
+@use 'variables';
+
+@import 'header';
+@import 'main';
+
+
+
+body {
+    background: url(/images/metalcubes_background.png) 50%;
+    background-repeat: no-repeat;
+    background-size: 2000px auto;
+    margin: 20px;
+}
